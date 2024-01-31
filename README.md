@@ -1,6 +1,70 @@
 # All-memes
 
-Open your browser and visit http://localhost:3000 to view the meme gallery.              
+# My Meme Gallery
+
+Create a dynamic meme gallery using Next.js that pulls posts from reddit.com/r/memes. The gallery offers infinite scrolling, loading more entries as users scroll down. Clicking on a thumbnail showcases the image in its full resolution, courtesy of the Photoswipe library.
+
+## Getting Started
+
+Follow these steps to set up and run the project on your local machine.
+
+### Prerequisites
+
+Ensure you have Node.js and npm (or yarn) installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+    bash
+    git clone https://github.com/your-username/all-memes.git
+    
+
+2. Navigate to the project directory:
+
+    bash
+    cd all-memes
+    
+
+3. Install dependencies:
+
+    bash
+    npm install
+    
+
+    or
+
+    bash
+    yarn install
+    
+
+### Run the Application
+
+Start the development server:
+
+bash
+npm run dev
+
+
+or
+
+bash
+yarn dev
+
+
+Open your browser and visit http://localhost:3000 to explore the meme gallery.
+
+## Features
+
+- Infinite scrolling for seamless meme discovery.
+- Click on a thumbnail to view the image in its full resolution within the gallery.
+
+## Technologies Used
+
+- Next.js
+- React
+- Axios
+- Photoswipe 
 
 https://github.com/j33tv/All-memes/assets/84339104/7b5dd76b-86e3-4ac8-929b-0a4caaaa7f23
 
