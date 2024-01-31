@@ -1,6 +1,6 @@
 # All-memes
 
-# My Meme Gallery
+
 
 Create a dynamic meme gallery using Next.js that pulls posts from reddit.com/r/memes. The gallery offers infinite scrolling, loading more entries as users scroll down. Clicking on a thumbnail showcases the image in its full resolution, courtesy of the Photoswipe library.
 
