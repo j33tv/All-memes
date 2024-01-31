@@ -21,25 +21,25 @@ Ensure you have Node.js and npm (or yarn) installed on your machine.
 
 1. Clone the repository:
 
-    bash
+    
     git clone https://github.com/your-username/all-memes.git
     
 
 2. Navigate to the project directory:
 
-    bash
+    
     cd all-memes
     
 
 3. Install dependencies:
 
-    bash
+    
     npm install
     
 
     or
 
-    bash
+    
     yarn install
     
 
@@ -47,13 +47,13 @@ Ensure you have Node.js and npm (or yarn) installed on your machine.
 
 Start the development server:
 
-bash
+
 npm run dev
 
 
 or
 
-bash
+
 yarn dev
 
 
